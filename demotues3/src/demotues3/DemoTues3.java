@@ -6,6 +6,11 @@ public class DemoTues3 {
 		 System.out.println("this is test");
 		 System.out.println("this is test - Develop created");
 		 System.out.println("This is windows messagess");
+		 System.out.println("this is test - Mac F1_1");
+		 System.out.println("this is test - Mac F1_2");
+		 System.out.println("this is test - Mac F1_3");
+		 System.out.println("this is test - Mac F1_4");
+		 
 	}
 
 }
